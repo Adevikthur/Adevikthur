@@ -9,16 +9,23 @@
 <div>
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-      alt="javascript"
+      alt="Figma"
       width="40"
       height="40"
     />
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+      alt="HTML"
       width="40"
       height="40"
-    
+    />
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+      alt="css"
+      width="40"
+      height="40"
+    />
+   
 
 </div>
 
