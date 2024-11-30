@@ -25,6 +25,24 @@
       width="40"
       height="40"
     />
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
+      alt="css"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg"
+      alt="css"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg"
+      alt="css"
+      width="40"
+      height="40"
+    />
    
 
 </div>
