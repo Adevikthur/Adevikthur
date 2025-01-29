@@ -26,6 +26,12 @@
       height="40"
     />
     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
       alt="sass(scss)"
       width="40"
