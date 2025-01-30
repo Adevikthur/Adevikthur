@@ -88,5 +88,5 @@
 </div>
 <br>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adevikthur&label=Profile%20views&color=0e75b6&style=flat" alt="chriscooper0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adevikthur&label=Profile%20views&color=0e75b6&style=flat" alt="adevikthur" /> </p>
 
