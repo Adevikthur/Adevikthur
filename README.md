@@ -1,6 +1,6 @@
 <div align="center">
  <h2>Julius Adekanbi Asaolu</h2>
- <h3>UI/UX Designer & Frontend Engineer</h3>
+ <h3>Product Designer & Frontend Engineer</h3>
 
 </div>
 
