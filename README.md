@@ -54,9 +54,7 @@
       alt="css"
       width="40"
       height="40"
-    />
-    <div class="contra-hire-me-button" data-analyticsUserId="fa601449-0ea8-40e9-a371-27a829e11ffe" data-theme="dark" data-username="adevikthur"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
-   
+    />   
 
 </div>
 
