@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-<div class="contra-hire-me-button" data-analyticsUserId="fa601449-0ea8-40e9-a371-27a829e11ffe" data-theme="light" data-username="adevikthur" <script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+<div class="contra-hire-me-button" data-analyticsUserId="fa601449-0ea8-40e9-a371-27a829e11ffe" data-theme="light" data-username="adevikthur"
 ></div>
 </div>
 
