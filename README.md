@@ -3,9 +3,9 @@
  <h3>Product Designer & Frontend Engineer</h3>
 
 </div>
+
 <div align="center">
-<div class="contra-hire-me-button" data-analyticsUserId="fa601449-0ea8-40e9-a371-27a829e11ffe" data-theme="light" data-username="adevikthur"
-></div>
+<div class="contra-hire-me-button" data-analyticsUserId="fa601449-0ea8-40e9-a371-27a829e11ffe" data-theme="dark" data-username="adevikthur"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
