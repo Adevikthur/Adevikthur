@@ -1,10 +1,10 @@
 <div align="center">
- <h2>Julius Adekanbi Asaolu</h2>
+ <h2>Julius A. Asaolu</h2>
  <h3>Product Designer & Frontend Engineer</h3>
 
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks and Tools:</h3>
 
 <div>
     <img
