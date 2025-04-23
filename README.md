@@ -26,8 +26,8 @@
       height="40"
       />
      <img
-      src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg"
-      alt="vite"
+      src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"
+      alt="vitejs"
       width="40"
       height="40"
       />
